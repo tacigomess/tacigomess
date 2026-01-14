@@ -32,21 +32,21 @@ Statistical inference, algorithm design, optimization, neural networks, metalear
 ✨ **Geometric Patterns in Prime Spirals**  
 ![Prime Spirals](https://img.shields.io/badge/Project-Geometric%20Primes-blue?style=flat)  
 Investigates how prime numbers form striking geometric structures when embedded in *polar spirals*, combining visualization, statistical exploration and pattern analysis to reveal hidden regularities in prime distributions.  
-🔗 https://github.com/tacigomess/prime-numbers-spirals :contentReference[oaicite:0]{index=0}
+🔗 https://github.com/tacigomess/prime-numbers-spirals
 
 ---
 
 📊 **Geometric Analysis of Prime Density (Halos)**  
 ![Halos](https://img.shields.io/badge/Project-Halos-green?style=flat)  
 A study on local prime densities using *logarithmic spiral embeddings* and adaptive neighborhood features. This project explores how primes cluster at different scales with geometric and spatial methods.  
-🔗 https://github.com/tacigomess/halos :contentReference[oaicite:1]{index=1}
+🔗 https://github.com/tacigomess/halos
 
 ---
 
 🔍 **Geometric Null Models for Prime Distributions**  
 ![Null Models](https://img.shields.io/badge/Project-Null%20Models-purple?style=flat)  
 Develops geometric embeddings of prime numbers calibrated with Cramér-type null models to analyze multi-scale density patterns, comparing observed distributions against theoretical expectations for deeper understanding.  
-🔗 https://github.com/tacigomess/geometric-null-model-primes :contentReference[oaicite:2]{index=2}
+🔗 https://github.com/tacigomess/geometric-null-model-primes
 
 ---
 
