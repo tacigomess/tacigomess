@@ -51,7 +51,6 @@ Develops geometric embeddings of prime numbers calibrated with Cramér-type null
 ---
 
 ### 🌱 Always learning…  
-Every day I explore new papers, concepts and techniques — from advanced data analysis to the latest research in machine learning and evolutionary methods.
 
 ---
 
